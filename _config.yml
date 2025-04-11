@@ -177,7 +177,15 @@ exclude:
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
-  - Dockerfile
+  - Dockerfile  
+  - _pages/about_einstein.md
+  - _pages/blog.md
+  - _pages/dropdown.md
+  - _pages/projects.md 
+  - _pages/cv.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _pages/teaching.md
   - docker-compose.yml
   - docker-compose-slim.yml
   - FAQ.md

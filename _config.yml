@@ -1,22 +1,22 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+title: Genpei Zhang   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Genpei Zhang. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://genpeizhang.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
+  name: Genpei Zhang
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
+  email: genpeizhang2024@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 

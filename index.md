@@ -8,7 +8,7 @@ layout: page
 
 Here is **Genpei Zhang (张根培)**.<br>
 
-I am a final-year undergraduate in Electronic Information Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and a visiting research assistant in the [Xu Lab](https://xulabs.github.io/) of the [Computational Biology Department](https://cbd.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Min Xu](https://cbd.cmu.edu/people/xu.html). My work centres on **generative AI for scientific imaging, multimodal large-language models, and graph representation learning**.
+I received my B.E. in Electronic Information Engineering from the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and a visiting research assistant in the [Xu Lab](https://xulabs.github.io/) of the [Computational Biology Department](https://cbd.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Min Xu](https://cbd.cmu.edu/people/xu.html). My work centres on **generative AI for scientific imaging, multimodal large-language models, and graph representation learning**.
 
 Beyond CMU, I collaborate with [Prof. Nuno Vasconcelos](https://jacobsschool.ucsd.edu/people/profile/nuno-vasconcelos) at UC San Diego on privacy-aware computer vision, with [Prof. Liang Zhao](https://cs.emory.edu/~lzhao41/) at Emory University on graph neural networks for 3-D structure analysis, and have taken part in research programmes led by [Prof. Pavlos Protopapas](https://seas.harvard.edu/person/pavlos-protopapas) at Harvard and [Dr. Hsiang Hui Lek](https://www.comp.nus.edu.sg/disa/people/lekhsian/) at the National University of Singapore.
 

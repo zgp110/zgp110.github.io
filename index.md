@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://zgp110.github.io/images/genpei.png" class="floatpic">
 
 Here is **Genpei Zhang (张根培)**.<br>
 

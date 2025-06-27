@@ -6,13 +6,13 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Genpei Zhang (蔡汉霖)**.<br>
+Here is **Genpei Zhang**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a final-year undergraduate in Electronic Information Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and a visiting research assistant in the [Xu Lab](https://xulabs.github.io/) of the [Computational Biology Department](https://cbd.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Min Xu](https://cbd.cmu.edu/people/xu.html). My work centres on **generative AI for scientific imaging, multimodal large-language models, and graph representation learning**. :contentReference[oaicite:0]{index=0}  
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+Beyond CMU, I collaborate with [Prof. Nuno Vasconcelos](https://jacobsschool.ucsd.edu/people/profile/nuno-vasconcelos) at UC San Diego on privacy-aware computer vision, with [Prof. Liang Zhao](https://cs.emory.edu/~lzhao41/) at Emory University on graph neural networks for 3-D structure analysis, and have taken part in research programmes led by [Prof. Pavlos Protopapas](https://seas.harvard.edu/person/pavlos-protopapas) at Harvard and [Dr. Hsiang Hui Lek](https://www.comp.nus.edu.sg/disa/people/lekhsian/) at the National University of Singapore. :contentReference[oaicite:1]{index=1}  
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of my work, I am always open to discussion and collaboration. Feel free to reach out at **genpeizhang2024@gmail.com**.
 
 ---
 

@@ -6,11 +6,6 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Papers  
-*(None yet.)*  
-
----
-
 ## Conference Papers
 
 - [PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph](https://openreview.net/forum?id=BpyHIrpUOL)

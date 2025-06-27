@@ -8,24 +8,24 @@ title: Publications
 
 ## Conference Papers
 
-- [PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph](https://openreview.net/forum?id=BpyHIrpUOL)
-  Dazhou Yu, **Genpei Zhang**, Liang Zhao~  
+- [PolyhedronNet: Representation Learning for Polyhedra with Surface-attributed Graph](https://openreview.net/forum?id=BpyHIrpUOL)<br>
+  Dazhou Yu, **Genpei Zhang**, Liang Zhao~<br>
   *13th International Conference on Learning Representations (ICLR 2025), Poster.*  
 
-- [EgoPrivacy: What Your First-Person Camera Says About You?](https://arxiv.org/abs/2506.12258)
-  Yijiang Li, **Genpei Zhang**, Jiacheng Cheng, Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos~  
+- [EgoPrivacy: What Your First-Person Camera Says About You?](https://arxiv.org/abs/2506.12258)<br>
+  Yijiang Li, **Genpei Zhang**, Jiacheng Cheng, Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos~<br>
   *42nd International Conference on Machine Learning (ICML 2025), Poster.*  
 
 ---
 
 ## Preprints & Under-Review
 
-- [CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis](https://arxiv.org/abs/2505.23444)
-  Runmin Jiang†, **Genpei Zhang†**, Yuntian Yang, Siqi Wu, Yuheng Zhang, Wanyue Feng, Yizhou Zhao, Xi Xiao, Xiao Wang, Tianyang Wang, Xingjian Li, Min Xu~  
+- [CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis](https://arxiv.org/abs/2505.23444)<br>
+  Runmin Jiang†, **Genpei Zhang†**, Yuntian Yang, Siqi Wu, Yuheng Zhang, Wanyue Feng, Yizhou Zhao, Xi Xiao, Xiao Wang, Tianyang Wang, Xingjian Li, Min Xu~<br>
   *Under review (NeurIPS 2025 Datasets & Benchmarks Track).*  
 
-- Synthesis-driven Equivariant and Noise-Robust Representation Learning for Cryo-ET Subtomograms  
-  Runmin Jiang, Wanyue Feng, Yuntian Yang, Shriya Pingulkar, Hong Wang, Xi Xiao, Xiaoyu Cao, **Genpei Zhang**, *et al.*~  
+- **Synthesis-driven Equivariant and Noise-Robust Representation Learning for Cryo-ET Subtomograms**<br>
+  Runmin Jiang, Wanyue Feng, Yuntian Yang, Shriya Pingulkar, Hong Wang, Xi Xiao, Xiaoyu Cao, **Genpei Zhang**, *et al.*~<br>
   *Under review (NeurIPS 2025 Main Track).*  
 
 ---

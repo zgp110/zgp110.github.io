@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://genpeizhang.com
+url: https://zgp110.github.io/
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -17,7 +17,7 @@ owner:
   avatar: hanlin.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: genpeizhang2024@gmail.com
-  cv: https://genpeizhang.com/file/CV-GenpeiZHANG.pdf
+  cv: hhttps://zgp110.github.io/file/CV-GenpeiZHANG.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -49,12 +49,6 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 
 # --------------------------------------------------

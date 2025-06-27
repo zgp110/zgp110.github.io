@@ -6,11 +6,11 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Genpei Zhang**.<br>
+Here is **Genpei Zhang (张根培)**.<br>
 
 I am a final-year undergraduate in Electronic Information Engineering at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and a visiting research assistant in the [Xu Lab](https://xulabs.github.io/) of the [Computational Biology Department](https://cbd.cmu.edu/) at Carnegie Mellon University, where I am advised by [Prof. Min Xu](https://cbd.cmu.edu/people/xu.html). My work centres on **generative AI for scientific imaging, multimodal large-language models, and graph representation learning**. :contentReference[oaicite:0]{index=0}  
 
-Beyond CMU, I collaborate with [Prof. Nuno Vasconcelos](https://jacobsschool.ucsd.edu/people/profile/nuno-vasconcelos) at UC San Diego on privacy-aware computer vision, with [Prof. Liang Zhao](https://cs.emory.edu/~lzhao41/) at Emory University on graph neural networks for 3-D structure analysis, and have taken part in research programmes led by [Prof. Pavlos Protopapas](https://seas.harvard.edu/person/pavlos-protopapas) at Harvard and [Dr. Hsiang Hui Lek](https://www.comp.nus.edu.sg/disa/people/lekhsian/) at the National University of Singapore. :contentReference[oaicite:1]{index=1}  
+Beyond CMU, I collaborate with [Prof. Nuno Vasconcelos](https://jacobsschool.ucsd.edu/people/profile/nuno-vasconcelos) at UC San Diego on privacy-aware computer vision, with [Prof. Liang Zhao](https://cs.emory.edu/~lzhao41/) at Emory University on graph neural networks for 3-D structure analysis, and have taken part in research programmes led by [Prof. Pavlos Protopapas](https://seas.harvard.edu/person/pavlos-protopapas) at Harvard and [Dr. Hsiang Hui Lek](https://www.comp.nus.edu.sg/disa/people/lekhsian/) at the National University of Singapore.
 
 If you are interested in any aspect of my work, I am always open to discussion and collaboration. Feel free to reach out at **genpeizhang2024@gmail.com**.
 
@@ -18,22 +18,16 @@ If you are interested in any aspect of my work, I am always open to discussion a
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- Generative AI for Scientific Imaging
+- AI for Science
+- Multimodal Large-Language Models
+- Graph Representation Learning
 
 ---
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **July 2025** Started a visiting research assistantship at Carnegie Mellon University’s [Xu Lab](https://cbd.cmu.edu/people/xu.html), focusing on generative models for cryo-EM imaging.
+- **May 2025** My work on privacy-aware computer vision was accepted as a poster at [ICML 2025](https://openreview.net/pdf?id=aMXOX8VrNq).
+- **January 2025** My work on polyhedral representation learning was accepted as a poster at [ICLR 2025](https://openreview.net/pdf?id=BpyHIrpUOL).
 

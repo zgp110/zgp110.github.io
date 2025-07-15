@@ -18,10 +18,9 @@ If you are interested in any aspect of my work, I am always open to discussion a
 
 ## Research Interests
 
-- Generative AI for Scientific Imaging
+- Generative AI
 - AI for Science
-- Multimodal Large-Language Models
-- Graph Representation Learning
+- Multimodal Large-Language Models (MLLMs)
 
 ---
 

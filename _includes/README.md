@@ -2,6 +2,6 @@
 
 Modifying this code is NOT recommended unless you are a pro.
 
-Thank you for supporting my work! Please feel free to contact me if you need help.
+These template files were adapted from GuangLun2000's Jekyll template.
 
-- My email: lancecai2002@gmail.com
+- Maintainer: genpeizhang2024@gmail.com

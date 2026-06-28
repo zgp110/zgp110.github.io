@@ -1,0 +1,206 @@
+/* ============================================================
+   custom.css — modern academic refresh for zgp110.github.io
+   Layered ON TOP of main.css (loaded after it in head.html).
+   Author edits live here; the compiled theme stays untouched.
+   ============================================================ */
+
+:root {
+  --accent:       #2c6e9b;   /* calm scholarly blue                 */
+  --accent-dark:  #1d4e6f;   /* hover / emphasis                    */
+  --ink:          #2b2b29;   /* primary text                        */
+  --muted:        #5b626e;   /* secondary text (venues, dates) — AA */
+  --rule:         #e6e8ec;   /* hairline dividers & borders         */
+  --card:         #f7f8fa;   /* card / blockquote background         */
+}
+
+/* ---- Readability ----------------------------------------- */
+.article-wrap {
+  line-height: 1.72;
+}
+.article-wrap p {
+  text-indent: 0;
+  color: var(--ink);
+}
+/* Cap the reading measure on very wide monitors (the theme floats
+   the article column with no max-width, so prose can over-run).    */
+#main article {
+  max-width: 46em;
+}
+
+/* ---- Headings -------------------------------------------- */
+/* Set the content page-title colour explicitly (the theme default
+   is #333332; this uses the slightly deeper --ink and loads later). */
+.article-wrap h1 {
+  color: var(--ink);
+  font-size: 2.4rem;
+  letter-spacing: .4px;
+  margin-bottom: .35em;
+}
+/* Section headings: distinguished by accent colour, NOT by the
+   accent bar — that motif is reserved for content blocks below.    */
+.article-wrap h2 {
+  color: var(--accent-dark);
+  clear: both;                 /* never collide with the floated photo */
+  margin-top: 1.5em;
+  letter-spacing: .3px;
+}
+
+/* ---- Section dividers ------------------------------------ */
+.article-wrap hr {
+  clear: both;
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2.1em 0 1.4em;
+}
+
+/* ---- Links ----------------------------------------------- */
+/* Persistent, restrained underline so links are distinguishable by
+   more than colour alone (accent vs ink is ~2.6:1 — below WCAG 3:1).*/
+.article-wrap a {
+  color: var(--accent);
+  border-bottom: 1px solid rgba(44, 110, 155, .4);
+  transition: color .15s ease, border-color .15s ease;
+}
+.article-wrap a:hover {
+  color: var(--accent-dark);
+  border-bottom-color: var(--accent);
+}
+/* Publication-card titles read as headings — bold is enough; keep
+   them clean and only underline on hover.                          */
+.pubs > li a {
+  border-bottom-color: transparent;
+}
+.pubs > li a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ---- Profile photo --------------------------------------- */
+img.floatpic {
+  width: 33%;
+  border-radius: 14px;
+  border: 3px solid #fff;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, .14);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+img.floatpic:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, .20);
+}
+
+/* ---- Research-interest list ({: .interests}) ------------- */
+.interests {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0;
+}
+.interests li {
+  position: relative;
+  padding: .22em 0 .22em 1.5em;
+}
+.interests li::before {
+  content: "▹";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* ---- News timeline ({: .news}) --------------------------- */
+.news {
+  list-style: none;
+  padding: 0;
+  margin: 1.3em 0 0;
+}
+.news li {
+  position: relative;
+  margin-left: .35em;
+  padding: 0 0 1.15em 1.5em;
+  border-left: 2px solid var(--rule);
+}
+.news li:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+.news li::before {
+  content: "";
+  position: absolute;
+  left: -7px;                  /* centre the 12px dot on the 2px rail */
+  top: .35em;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #fff;
+  border: 3px solid var(--accent);
+}
+.news li strong:first-child {
+  display: inline-block;
+  min-width: 5.5em;
+  font-family: 'PT Sans Narrow', sans-serif;
+  letter-spacing: .3px;
+  color: var(--accent-dark);
+}
+
+/* ---- Publication cards ({: .pubs}) ----------------------- */
+.pubs {
+  list-style: none;
+  padding: 0;
+  margin: 1.3em 0 0;
+}
+.pubs > li {
+  margin-bottom: .9em;
+  padding: .85em 1.05em;
+  background: var(--card);
+  border: 1px solid var(--rule);
+  border-left: 4px solid var(--accent);
+  border-radius: 6px;
+  line-height: 1.55;
+  transition: box-shadow .2s ease, transform .2s ease, border-color .2s ease;
+}
+.pubs > li:hover {
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .08);
+  transform: translateY(-2px);   /* lift (keeps the left edge aligned) */
+  border-left-color: var(--accent-dark);
+}
+.pubs > li a {
+  font-weight: 700;
+}
+.pubs em {
+  color: var(--muted);
+}
+
+/* ---- Blockquote (notes / the closing poem) --------------- */
+.article-wrap blockquote {
+  border-left: 4px solid var(--accent);
+  background: var(--card);
+  padding: .75em 1.1em;
+  border-radius: 0 6px 6px 0;
+  color: var(--muted);
+  font-style: italic;
+}
+.article-wrap blockquote p {
+  color: var(--muted);
+}
+
+/* ---- Sidebar author bio ---------------------------------- */
+.article-author-top img.bio-photo,
+.article-author-bottom img.bio-photo {
+  border: 3px solid #fff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .12);
+}
+.article-author-top a:hover,
+.article-author-bottom a:hover {
+  color: var(--accent);
+}
+
+/* ---- Small screens --------------------------------------- */
+@media only screen and (max-width: 600px) {
+  /* Un-float the portrait so the intro isn't squeezed into a gutter */
+  img.floatpic {
+    float: none;
+    display: block;
+    width: 58%;
+    max-width: 210px;
+    margin: 0 auto 1.2em;
+  }
+  .article-wrap h1 { font-size: 2rem; }
+}

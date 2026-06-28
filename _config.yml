@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://zgp110.github.io/
+url: https://zgp110.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -22,20 +22,20 @@ owner:
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: zgp110
-  scholar: https://scholar.google.com/citations?user=CcyuL08AAAAJ&hl
-  # zhihu: https://www.zhihu.com/people/chlire
-  # xiaohongshu: 5c27848f0000000005030c6f
-  # bilibili: 594030035
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
+  scholar: https://scholar.google.com/citations?user=CcyuL08AAAAJ
+  # --- optional: uncomment and fill in with your OWN handles ---
+  # linkedin: your-linkedin-id
+  # researchgate: your-researchgate-id
+  # zhihu: https://www.zhihu.com/people/your-id
+  # xiaohongshu: your-xiaohongshu-id
+  # bilibili: your-bilibili-id
+  # twitter: your-handle
 
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: ""    # add your OWN Google Search Console token (the previous one belonged to the template author and was removed)
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
@@ -88,10 +88,10 @@ kramdown:
 
 
 # --------------------------------------------------
-#  DISQUS COMMENT SYSTEM
+#  DISQUS COMMENT SYSTEM (disabled — set your own shortname to enable)
 # --------------------------------------------------
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: your-disqus-shortname
 
 
 # include: [".htaccess"]

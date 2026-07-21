@@ -8,10 +8,6 @@ title: Publications
 
 ## Conference &amp; Workshop Papers
 
-- **MicroFM: Physics-guided Flow Matching for Isotropic Microscopy Reconstruction**<br>
-  Xingzu Zhan, Runmin Jiang, Vatsal Gupta, Tanush Swaminathan, Yanwen Wang, **Genpei Zhang**, Haili Wang, Min Xu, *et al.*<br>
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Poster.*
-
 - [EgoPrivacy: What Your First-Person Camera Says About You?](https://arxiv.org/abs/2506.12258)<br>
   Yijiang Li, **Genpei Zhang**, Jiacheng Cheng, Yi Li, Xiaojun Shan, Dashan Gao, Jiancheng Lyu, Yuan Li, Ning Bi, Nuno Vasconcelos~<br>
   *42nd International Conference on Machine Learning (ICML 2025), Poster.*
@@ -27,6 +23,10 @@ title: Publications
 - [CryoDiff: Cryo-EM Synthesis via Biophysics and Cycle-Consistent Diffusion](https://openreview.net/pdf?id=qdSSzVQttv)<br>
   **Genpei Zhang**, Yuntian Yang, Siqi Wu, Ningyan Zhang, Seonghui Min, Jie Wu, Christopher Braxton Owens, Minhao Wu, Wanyue Feng, Gus L. W. Hart, Runmin Jiang, Min Xu~<br>
   *CVPR 2026 Workshop on Synthetic Data for Computer Vision (SynData4CV).*
+
+- **MicroFM: Physics-guided Flow Matching for Isotropic Microscopy Reconstruction**<br>
+  Xingzu Zhan, Runmin Jiang, Vatsal Gupta, Tanush Swaminathan, Yanwen Wang, **Genpei Zhang**, Haili Wang, Min Xu, *et al.*<br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Poster.*
 {: .pubs}
 
 ---

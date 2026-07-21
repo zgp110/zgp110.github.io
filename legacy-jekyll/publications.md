@@ -25,6 +25,10 @@ title: Publications
 
 ## Preprints
 
+- [Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers](https://arxiv.org/abs/2607.16212)<br>
+  **Genpei Zhang**<br>
+  *Preprint, arXiv:2607.16212.*
+
 - [CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis](https://arxiv.org/abs/2505.23444)<br>
   Runmin Jiang†, **Genpei Zhang†**, Yuntian Yang, Siqi Wu, Yuheng Zhang, Wanyue Feng, Yizhou Zhao, Xi Xiao, Xiao Wang, Tianyang Wang, Xingjian Li, Min Xu~<br>
   *Preprint, arXiv:2505.23444.*

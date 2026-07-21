@@ -33,6 +33,7 @@ title: 中文版
 ## 近期动态
 
 - **2026 年 6 月** —— 论文 [*CryoDiff*](https://openreview.net/pdf?id=qdSSzVQttv) 被 **CVPR 2026 SynData4CV Workshop** 接收 🎉
+- **2026 年 5 月** —— 新预印本 [*Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers*](https://arxiv.org/abs/2607.16212) 已发布于 arXiv 📄
 - **2026 年** —— 获 **威斯康星大学麦迪逊分校计算机科学博士项目** 录取，将于 2026 年秋季入学 🎓
 - **2025 年 7 月** —— 加入卡内基梅隆大学 [Xu Lab](https://xulabs.github.io/) 担任访问研究助理，研究冷冻电镜图像的生成模型。
 - **2025 年 5 月** —— 隐私保护计算机视觉相关工作以 poster 形式被 [ICML 2025](https://openreview.net/pdf?id=aMXOX8VrNq) 接收。

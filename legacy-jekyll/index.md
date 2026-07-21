@@ -29,6 +29,7 @@ I am always open to discussion and collaboration. Feel free to reach out at **ge
 ## News and Updates
 
 - **Jun 2026** — Our paper [*CryoDiff*](https://openreview.net/pdf?id=qdSSzVQttv) was accepted to the **CVPR 2026 SynData4CV Workshop** 🎉
+- **May 2026** — New preprint [*Symbolic Augmentation Closes a Canonical-Equivalence Blind Spot in Neural Fact-Checkers*](https://arxiv.org/abs/2607.16212) is now on arXiv 📄
 - **2026** — Admitted to the **CS PhD program at the University of Wisconsin–Madison**, starting Fall 2026 🎓
 - **Jul 2025** — Joined Carnegie Mellon University's [Xu Lab](https://xulabs.github.io/) as a visiting research assistant, working on generative models for cryo-EM imaging.
 - **May 2025** — Our work on privacy-aware computer vision was accepted as a poster at [ICML 2025](https://openreview.net/pdf?id=aMXOX8VrNq).

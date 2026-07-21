@@ -37,14 +37,3 @@ title: Publications
   Runmin Jiang, Wanyue Feng, Yuntian Yang, Shriya Pingulkar, Hong Wang, Xi Xiao, Xiaoyu Cao, **Genpei Zhang**, *et al.*, Min Xu~<br>
   *Preprint.*
 {: .pubs}
-
----
-
-## Early Projects &amp; Thesis Work
-
-- **Co-Passport Ensemble: A System-level Deep Passport Framework for Multi-Model Intellectual-Property Protection**<br>
-  **Genpei Zhang** (Undergraduate Thesis, UESTC; Advisor: Le Zhang).
-
-- **Self-reward Optimization for Diffusion Models**<br>
-  **Genpei Zhang**, in collaboration with Huaxiu Yao (UNC Chapel Hill), 2024.
-{: .pubs}

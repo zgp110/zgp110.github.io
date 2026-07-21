@@ -8,6 +8,14 @@ title: Publications
 
 ## Conference &amp; Workshop Papers
 
+- **MicroFM: Physics-guided Flow Matching for Isotropic Microscopy Reconstruction**<br>
+  Xingzu Zhan, Runmin Jiang, Vatsal Gupta, Tanush Swaminathan, Yanwen Wang, **Genpei Zhang**, Haili Wang, Min Xu, *et al.*<br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026), Poster.*
+
+- **T2M Mamba: Motion Periodicity-Saliency Coupling Approach for Stable Text-Driven Motion Generation**<br>
+  Xingzu Zhan†, **Genpei Zhang†**, *et al.*<br>
+  *IEEE International Conference on Multimedia and Expo (ICME 2026).*
+
 - [CryoDiff: Cryo-EM Synthesis via Biophysics and Cycle-Consistent Diffusion](https://openreview.net/pdf?id=qdSSzVQttv)<br>
   **Genpei Zhang**, Yuntian Yang, Siqi Wu, Ningyan Zhang, Seonghui Min, Jie Wu, Christopher Braxton Owens, Minhao Wu, Wanyue Feng, Gus L. W. Hart, Runmin Jiang, Min Xu~<br>
   *CVPR 2026 Workshop on Synthetic Data for Computer Vision (SynData4CV).*
